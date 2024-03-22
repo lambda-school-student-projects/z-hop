@@ -1,0 +1,83 @@
+
+      <section id="news">
+        <h2>Latest 3D Printing News</h2>
+        <div class="row">
+          <% @news.each do |article| %>
+            <div class="col s12 m6">
+              <div class="card">
+                <div class="card-content">
+                  <span class="card-title"><%= article['title'] %></span>
+                  <p><%= article['snippet'] %></p>
+                </div>
+                <div class="card-action">
+                  <a href="<%= article['link'] %>">Read More</a>
+                </div>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      </section>
+
+      <section id="models">
+        <h2>Popular 3D Models</h2>
+        <div class="row">
+          <% @models.each do |site| %>
+            <div class="col s12 m6">
+              <div class="card">
+                <div class="card-content">
+                  <span class="card-title"><%= site['title'] %></span>
+                  <p><%= site['snippet'] %></p>
+                </div>
+                <div class="card-action">
+                  <a href="<%= site['link'] %>">Visit Site</a>
+                </div>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      </section>
+
+      <section id="tips">
+        <h2>3D Printing Tips and Tricks</h2>
+        <div class="row">
+          <% @tips.each do |tip| %>
+            <div class="col s12 m6">
+              <div class="card">
+                <div class="card-content">
+                  <span class="card-title"><%= tip['title'] %></span>
+                  <p><%= tip['snippet'] %></p>
+                </div>
+                <div class="card-action">
+                  <a href="<%= tip['link'] %>">Visit Site</a>
+                </div>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      </section>
+
+      <section id="events">
+        <h2>Local 3D Printing Events</h2>
+        <div class="row">
+          <% @events.each do |event| %>
+            <div class="col s12 m6">
+              <div class="card">
+                <div class="card-content">
+                  <span class="card-title"><%= event['title'] %></span>
+                  <p><%= event['date']['when'] %></p>
+                  <p><%= event['address'] %></p>
+                  <p><%= event['description'] %></p>
+                  <% if event['ticketInfo'] %>
+                  <% event['ticketInfo'].each do |ticket| %>
+                  <a href="<%= ticket['link'] %>"><%= ticket['source'] %></a>
+          <% end %>
+        <% end %>
+                </div>
+                <div class="card-action">
+                  <a href="<%= event['link'] %>">Visit Site</a>
+                </div>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      </section>
