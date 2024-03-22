@@ -1,0 +1,377 @@
+{
+  "requestMetadata": {
+    "id": "3483b290-2a34-4867-ab6b-a1e447238273",
+    "status": "ok",
+    "url": "https://www.google.com/search?q=3D%2BPrinting&hl=en&tbm=nws&num=42&oq=3D%2BPrinting&sourceid=chrome&ie=UTF-8",
+    "html": "https://storage.googleapis.com/scrapeit-cloud-screenshots/3483b290-2a34-4867-ab6b-a1e447238273.html"
+  },
+  "searchInformation": {
+    "totalResults": "42700",
+    "timeTaken": 0.55
+  },
+  "newsResults": [
+    {
+      "position": 1,
+      "title": "In a world-first, wooden items get 3D-printed out of wood-only ingredients",
+      "link": "https://newatlas.com/3d-printing/wooden-items-3d-printed-wood-ingredients/",
+      "source": "New Atlas",
+      "snippet": "Scientists have developed a new \"ink\" that allows objects to be 3D-printed  out of wood. The material could reduce the amount of wood that...",
+      "date": "1 day ago"
+    },
+    {
+      "position": 2,
+      "title": "World's first high-resolution brain model created with 3D printer",
+      "link": "https://medicalxpress.com/news/2024-03-world-high-resolution-brain-3d.html",
+      "source": "Medical Xpress",
+      "snippet": "In a joint project between TU Wien and MedUni Vienna, the world's first  3D-printed \"brain phantom\" has been developed, which is modeled on...",
+      "date": "22 hours ago"
+    },
+    {
+      "position": 3,
+      "title": "Westinghouse Electric Company 3D prints 1000th fuel flow plate",
+      "link": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/metal-additive-manufacturing-news/westinghouse-electric-company-3d-prints-1000th-fuel-flow-plate/",
+      "source": "TCT Magazine",
+      "snippet": "Westinghouse Electric Company has 3D printed its 1,000th fuel flow plate,  marking a significant milestone for both the nuclear power company...",
+      "date": "57 minutes ago"
+    },
+    {
+      "position": 4,
+      "title": "Stoke Space acquires Solukon’s SFM-AT800-S depowdering system",
+      "link": "https://www.voxelmatters.com/stoke-space-acquires-solukons-sfm-at800-s-depowdering-system/",
+      "source": "VoxelMatters",
+      "snippet": "Stoke Space acquires Solukon's SFM-AT800-S - utilizing the depowdering  system for the company's 3D printed copper thrust chambers.",
+      "date": "3 hours ago"
+    },
+    {
+      "position": 5,
+      "title": "3D Printing Financials: Prodways Faces Headwinds, Cuts Jewelry Printers and \nCristal Dental Lab for Turnaround",
+      "link": "https://3dprint.com/308168/3d-printing-financials-prodways-faces-headwinds-cuts-jewelry-printers-and-cristal-dental-lab-for-turnaround/",
+      "source": "3DPrint.com",
+      "snippet": "Prodways (EPA: PWG), a European leader in industrial 3D printing,  encountered financial challenges in 2023, as revealed in its earnings  report.",
+      "date": "3 hours ago"
+    },
+    {
+      "position": 6,
+      "title": "3D printed fire-resistant home being built in Los Angeles County",
+      "link": "https://ktla.com/news/california/wildfires/3d-printed-fire-resistant-adu-being-built-in-los-angeles-county/",
+      "source": "KTLA",
+      "snippet": "Construction is underway on a fire-resistant accessory dwelling unit in  eastern Los Angeles County that is being built by a 3D printing...",
+      "date": "15 hours ago"
+    },
+    {
+      "position": 7,
+      "title": "CRP Technology's innovative 3D printed orthoses to be displayed at the \nSuperPower Design exhibition",
+      "link": "https://3dprintingindustry.com/news/crp-technologys-innovative-3d-printed-orthoses-to-be-displayed-at-the-superpower-design-exhibition-229216/",
+      "source": "3D Printing Industry",
+      "snippet": "Italy-based 3D printing company CRP Technology will be exhibiting its  orthoses crafted from Glass Fiber fiber-reinforced thermoplastic...",
+      "date": "19 hours ago"
+    },
+    {
+      "position": 8,
+      "title": "Researchers develop 3D-printed wood from its own natural components",
+      "link": "https://phys.org/news/2024-03-3d-wood-natural-components.html",
+      "source": "Phys.org",
+      "snippet": "Researchers at Rice University have unlocked the potential to use 3D  printing to make sustainable wood structures, offering a greener...",
+      "date": "2 days ago"
+    },
+    {
+      "position": 9,
+      "title": "AI-Powered 3D Printing Redefines Implant Surgery",
+      "link": "https://www.forbes.com/sites/carolynschwaar/2024/03/22/ai-powered-3d-printing-redefines-implant-surgery/",
+      "source": "Forbes",
+      "snippet": "The demand for – and the market for – patient-specific, custom-3D-printed  implants is surging. Better outcomes and lower costs are just two...",
+      "date": "5 hours ago"
+    },
+    {
+      "position": 10,
+      "title": "Massive robotic arm 3D prints 27-ft-high two-story house in a first",
+      "link": "https://interestingengineering.com/innovation/massive-robotic-arm-3d-prints-27-ft-high-two-story-house-in-a-first",
+      "source": "Interesting Engineering",
+      "snippet": "Icon's Phoenix robotic construction tech can erect multi-story buildings  using printed foundations and roof components.",
+      "date": "1 day ago"
+    },
+    {
+      "position": 11,
+      "title": "Replique’s Material Hub: Transforming 3D Printing with One Click",
+      "link": "https://3dprint.com/308181/repliques-material-hub-transforming-3d-printing-with-one-click/",
+      "source": "3DPrint.com",
+      "snippet": "BASF-incubated spare parts service Replique is opening its 3D Printing  Material Hub. This hub is accessible by confirming your email and includes  400...",
+      "date": "2 hours ago"
+    },
+    {
+      "position": 12,
+      "title": "Best 3D Printers 2024: FDM, Resin and Sub-$250 Models",
+      "link": "https://www.tomshardware.com/best-picks/best-3d-printers",
+      "source": "Tom's Hardware",
+      "snippet": "Here are the Best 3D Printers for your budget, whether you're an expert or  a beginner. We've tested dozens of models to help you find the...",
+      "date": "1 day ago"
+    },
+    {
+      "position": 13,
+      "title": "Podcast | And Now, 3D Printing for… Submarines?",
+      "link": "https://www.supplychainbrain.com/articles/39313-podcast-and-now-3d-printing-for-submarines",
+      "source": "Supply Chain Brain",
+      "snippet": "3D printing is just hitting the acceptance curve for wide-scale adoption by  manufacturers.",
+      "date": "12 hours ago"
+    },
+    {
+      "position": 14,
+      "title": "Actively-Heated 3D Printers",
+      "link": "https://www.trendhunter.com/trends/qidi-q1-pro",
+      "source": "Trend Hunter",
+      "snippet": "qidi Q1 pro - The QIDI Q1 Pro is the latest 3D printer model introduced by  QIDI Technology. It features a build volume of 245 x 245 x 245 mm and is...",
+      "date": "11 hours ago"
+    },
+    {
+      "position": 15,
+      "title": "By 2032, 3D Printing Market to Reach USD 150.2 Billion",
+      "link": "https://www.newschannelnebraska.com/story/50601316/by-2032-3d-printing-market-to-reach-usd-150-2-billion",
+      "source": "News Channel Nebraska",
+      "snippet": "The global 3D printing market size is poised for significant growth, with a  valuation of USD 22.39 Billion in 2023 and projected to reach USD 150.2  Billion...",
+      "date": "8 hours ago"
+    },
+    {
+      "position": 16,
+      "title": "World's First 3D-Printed Windpipe Given to Transplant Patient",
+      "link": "https://www.tomorrowsworldtoday.com/worlds-first/worlds-first-3d-printed-windpipe-given-to-transplant-patient/",
+      "source": "tomorrow’s world today",
+      "snippet": "A woman in South Korea was the recipient of the world's first 3D-printed  trachea organ transplant that opens up new possibilities.",
+      "date": "5 hours ago"
+    },
+    {
+      "position": 17,
+      "title": "Beehive Industries fires up new 3D printed jet engine in record time",
+      "link": "https://www.voxelmatters.com/beehive-industries-fires-up-new-3d-printed-jet-engine-in-record-time/",
+      "source": "VoxelMatters",
+      "snippet": "Beehive Industries fires up new 3D printed jet engine in record time, from  idea to test in 16 months: the time of AM has arrived.",
+      "date": "5 hours ago"
+    },
+    {
+      "position": 18,
+      "title": "Zipper Pull Ixon #3DThursday #3DPrinting « Adafruit Industries – Makers, \nhackers, artists, designers and engineers!",
+      "link": "https://blog.adafruit.com/2024/03/21/zipper-pull-ixon-3dthursday-3dprinting/",
+      "source": "Adafruit",
+      "snippet": "Kharn shares: My original puller just brok, so here is a new one. Print  with TPU, no support, no raft. download the files on:...",
+      "date": "16 hours ago"
+    },
+    {
+      "position": 19,
+      "title": "Researchers turn wood chips into 3D printed wooden objects",
+      "link": "https://www.anthropocenemagazine.org/2024/03/researchers-transform-wood-waste-into-wood-ink-for-3d-printing-more-wood/",
+      "source": "Anthropoce",
+      "snippet": "Ink made from waste wood gives solid materials that could be a sustainable  alternative to plastic…and that look, smell and behave like the...",
+      "date": "1 day ago"
+    },
+    {
+      "position": 20,
+      "title": "Carboxymethylcellulose-induced depletion attraction to stabilize high \ninternal phase Pickering emulsions for the elderly ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0308814624006770?dgcid=rss_sd_all",
+      "source": "ScienceDirect.com",
+      "snippet": "In this study, a carboxymethylcellulose (CMC) induced depletion attraction  was developed to stabilize high internal phase Pickering emulsions (HIPPEs)  as...",
+      "date": "5 hours ago"
+    },
+    {
+      "position": 21,
+      "title": "New innovative Army effort builds 3D printed barracks",
+      "link": "https://www.myheraldreview.com/news/fort_huachuca/new-innovative-army-effort-builds-3d-printed-barracks/article_9a8e0cbe-e851-11ee-99a9-6326217fa7d0.html",
+      "source": "Sierra Vista Herald",
+      "snippet": "FORT BLISS, Texas — Sgt. Maj. Michael Perry, the senior enlisted advisor to  the deputy chief of staff G-9, recently visited Fort Bliss,...",
+      "date": "2 hours ago"
+    },
+    {
+      "position": 22,
+      "title": "LogOn: 3D Printing Cars Revolutionizes Automobile Design",
+      "link": "https://www.voanews.com/a/logon-3d-printing-cars-revolutionizes-automobile-design/7533641.html",
+      "source": "Voice of America",
+      "snippet": "Artificial intelligence and 3D printing could revolutionize automobile  design and manufacturing. Genia Dulot takes us out to a...",
+      "date": "3 days ago"
+    },
+    {
+      "position": 23,
+      "title": "Westinghouse Achieves Serial 3D Printing of Nuclear Power Part",
+      "link": "https://3dprint.com/308195/westinghouse-achieves-serial-3d-printing-of-nuclear-power-part/",
+      "source": "3DPrint.com",
+      "snippet": "According to the “Additive Manufacturing in the Energy Sector: Market  Analysis & Forecast” report from Additive Manufacturing Research (AMR),...",
+      "date": "3 hours ago"
+    },
+    {
+      "position": 24,
+      "title": "The Case For Bullishness On 3D Printing",
+      "link": "https://www.forbes.com/sites/jimvinoski/2024/03/18/the-case-for-bullishness-on-3d-printing/",
+      "source": "Forbes",
+      "snippet": "The seeming pall over additive manufacturing in recent years had real  causes, but the long-term outlook is still bright for this newest...",
+      "date": "4 days ago"
+    },
+    {
+      "position": 25,
+      "title": "Air Force Awards Fortius Metals $1.25M to Qualify 3D Printing Wire for \nHypersonic Applications",
+      "link": "https://3dprint.com/308180/air-force-awards-fortius-metals-1-25m-to-qualify-3d-printing-wire-for-hypersonic-applications/",
+      "source": "3DPrint.com",
+      "snippet": "AFWERX, part of the US Air Force Research Laboratory (AFRL), awarded a  Direct-to-Phase II Small Business Innovation Research (SBIR) contract worth  $1.25...",
+      "date": "3 hours ago"
+    },
+    {
+      "position": 26,
+      "title": "NGen Announces $100M to Boost Sustainability in Canadian Manufacturing",
+      "link": "https://3dprint.com/308191/ngen-announces-100m-to-boost-sustainability-in-canadian-manufacturing/",
+      "source": "3DPrint.com",
+      "snippet": "NGen, the non-profit behind Canada's Global Innovation Cluster for Advanced  Manufacturing, has announced a new project call dedicated to improving  the...",
+      "date": "2 hours ago"
+    },
+    {
+      "position": 27,
+      "title": "Dental 3D Printing Market Anticipated to Surge to USD 8.1 Billion by 2029, \nDriven by Advancements in Technology and ...",
+      "link": "https://finance.yahoo.com/news/dental-3d-printing-market-anticipated-164500070.html",
+      "source": "Yahoo Finance",
+      "snippet": "Dental 3D Printing Market Dental 3D Printing Market Dublin, March 21, 2024  (GLOBE NEWSWIRE) -- The \"Dental 3D Printing Market by Equipment...",
+      "date": "23 hours ago"
+    },
+    {
+      "position": 28,
+      "title": "Better Layer Bonding With Light?",
+      "link": "https://all3dp.com/4/better-layer-bonding-with-light/",
+      "source": "All3DP",
+      "snippet": "This German start-up is betting on extruder-mounted LEDs as the cure to  layer separation and poor interlayer adheasion.",
+      "date": "6 hours ago"
+    },
+    {
+      "position": 29,
+      "title": "Réplique Publicly Launches 3D Printing Material Hub",
+      "link": "https://www.digitalengineering247.com/article/replique-publicly-launches-3d-printing-material-hub/additive-manufacturing",
+      "source": "Digital Engineering 24/7",
+      "snippet": "Replique, provider of a decentralized 3D printing platform for the secure  and reliable production of industrial-grade parts, has publicly...",
+      "date": "12 hours ago"
+    },
+    {
+      "position": 30,
+      "title": "3D Printing Unpeeled: 3D Printed Wood, Octopus and Fluoride Release Dental \nParts",
+      "link": "https://3dprint.com/308138/3d-printing-unpeeled-3d-printed-wood-octopus-and-fluoride-release-dental-parts/",
+      "source": "3DPrint.com",
+      "snippet": "Revo Foods have released a 3D printed octopus analog made from mycoprotein  with a Nutri Score A which has protein, Omega-3 and fibers.",
+      "date": "2 days ago"
+    },
+    {
+      "position": 31,
+      "title": "Digital Manufacturing Turns Information into Reality",
+      "link": "https://www.designnews.com/3d-printing/digital-manufacturing-turns-information-into-reality",
+      "source": "Design News",
+      "snippet": "Generative AI and digital manufacturing can benefit from information theory  and the study of complexity.",
+      "date": "14 hours ago"
+    },
+    {
+      "position": 32,
+      "title": "One-Stop Printing",
+      "link": "https://www.sme.org/technologies/articles/2024/march/one-stop-printing/",
+      "source": "SME.org",
+      "snippet": "The latest information regarding product design for additive manufacturing  and 3d printing, and the service bureaus providing such...",
+      "date": "23 hours ago"
+    },
+    {
+      "position": 33,
+      "title": "Creating Fluid, Double-Curved Shapes Through Non-planar 3D Printing",
+      "link": "https://www.archdaily.com/1014508/creating-fluid-double-curved-shapes-through-non-planar-3d-printing",
+      "source": "ArchDaily",
+      "snippet": "As an additive manufacturing method, 3D printing has been characterized by  the construction of objects through the horizontal deposition of...",
+      "date": "3 days ago"
+    },
+    {
+      "position": 34,
+      "title": "New milestone for the use of AM in the nuclear industry: Westinghouse 3D \nprints its 1,000th fuel flow plate",
+      "link": "https://3dadept.com/new-milestone-for-the-use-of-am-in-the-nuclear-industry-westinghouse-3d-prints-its-1000th-fuel-flow-plate/",
+      "source": "3d adept media",
+      "snippet": "Westinghouse Electric Company, a company that provides a wide range of  nuclear power plant products and services to utilities throughout the...",
+      "date": "7 hours ago"
+    },
+    {
+      "position": 35,
+      "title": "WinSun is Back as Gaudi Tech and It’s 3D Printing Houses in the U.S.",
+      "link": "https://3dprint.com/308092/winsun-is-back-as-gaudi-tech-and-its-3d-printing-houses-in-the-u-s/",
+      "source": "3DPrint.com",
+      "snippet": "About a decade ago, a Chinese 3D printing company, Yingchuang Building  Technique (WinSun), made enormous waves in the worlds of additive  manufacturing (AM),...",
+      "date": "1 day ago"
+    },
+    {
+      "position": 36,
+      "title": "Using wood waste products to produce ink for 3D printing of wood objects",
+      "link": "https://techxplore.com/news/2024-03-wood-products-ink-3d.html",
+      "source": "Tech Xplore",
+      "snippet": "A combined team of materials scientists from Rice University and Oak Ridge  National Laboratory has developed a way to convert wood waste...",
+      "date": "4 days ago"
+    },
+    {
+      "position": 37,
+      "title": "3D print your own animated, 3D-printer-shaped wireless charger for less \nthan $50, thanks to Bambu Labs",
+      "link": "https://www.tomshardware.com/3d-printing/3d-print-your-own-animated-3d-printer-shaped-wireless-charger-for-less-than-dollar50-thanks-to-bambu-labs",
+      "source": "Tom's Hardware",
+      "snippet": "3D printer owners yearning for a stylized wireless charger may be in luck—  leading 3D printer manufacturer Bambu Labs has released a...",
+      "date": "1 day ago"
+    },
+    {
+      "position": 38,
+      "title": "Creality K1 Max Review: 3D Printing Goes Mainstream",
+      "link": "https://www.howtogeek.com/creality-k1-max-review/",
+      "source": "How-To Geek",
+      "snippet": "3D printers have long been the purview of enthusiasts working in a  relatively small niche. However, now there's a new generation of...",
+      "date": "1 day ago"
+    },
+    {
+      "position": 39,
+      "title": "3D-printed holographics can encode data using common plastic -- keys and \naddresses up to 576 bits, with redundancy",
+      "link": "https://www.tomshardware.com/3d-printing/3d-printed-holographics-can-encode-data-using-common-plastic-keys-and-addresses-up-to-576-bits-with-redundancy",
+      "source": "Tom's Hardware",
+      "snippet": "A standard 3D printer and terahertz beams permit for storing data on a  regular, 3D-printed piece of plastic— like cryptographic keys.",
+      "date": "2 days ago"
+    },
+    {
+      "position": 40,
+      "title": "3D Printing Unpeeled: 3D Printing Endangered Bird Eggs, Polymer Satellite \nBus, QIDI",
+      "link": "https://3dprint.com/308178/3d-printing-unpeeled-3d-printing-endangered-bird-eggs-polymer-sattelite-bus-qidi/",
+      "source": "3DPrint.com",
+      "snippet": "The New Zealand Department of Conservation (DOC) is using 3D printing to  help protect the endangered fairy tern. The New Zealand variant is  critically...",
+      "date": "1 day ago"
+    },
+    {
+      "position": 41,
+      "title": "Video: Giant robotic arm 3D-prints a two-story house",
+      "link": "https://newatlas.com/architecture/3d-printed-house-icon-phoenix/",
+      "source": "New Atlas",
+      "snippet": "A new 3D construction printer from Icon can whip out two-story concrete  buildings faster and cheaper than its previous Vulcan printer.",
+      "date": "1 day ago"
+    },
+    {
+      "position": 42,
+      "title": "Replique publicly launches Material Hub for 3D printing",
+      "link": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/latest-additive-manufacturing-3d-printing-news/replique-material-hub-for-3d-printing/",
+      "source": "TCT Magazine",
+      "snippet": "The beta release, Replique said, received 'overwhelmingly positive  feedback' with the company now ready to introduced the database to the...",
+      "date": "1 day ago"
+    }
+  ],
+  "pagination": {
+    "next": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=42&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8NMDegQIAxAS",
+    "current": 1,
+    "pages": [
+      {
+        "2": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=42&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8tMDegQIAxAE"
+      },
+      {
+        "3": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=84&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8tMDegQIAxAG"
+      },
+      {
+        "4": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=126&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8tMDegQIAxAI"
+      },
+      {
+        "5": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=168&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8tMDegQIAxAK"
+      },
+      {
+        "6": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=210&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8tMDegQIAxAM"
+      },
+      {
+        "7": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=252&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8tMDegQIAxAO"
+      },
+      {
+        "8": "https://www.google.com/search?q=3D%2BPrinting&num=42&sca_esv=2b87a7951bc7ea46&hl=en&tbm=nws&ei=ZqT9Zci6E8j95OUP7Mqo6Ak&start=294&sa=N&ved=2ahUKEwjIhamumIiFAxXIPrkGHWwlCp0Q8tMDegQIAxAQ"
+      }
+    ]
+  }
+}
