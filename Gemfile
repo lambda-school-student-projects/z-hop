@@ -37,3 +37,5 @@ group :test do
   gem "webdrivers"
   gem "i18n"
 end
+
+gem "rackup", "~> 2.1"
