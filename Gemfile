@@ -5,6 +5,7 @@ ruby ">= 3.2.0"
 
 gem "sinatra"
 gem "sinatra-contrib"
+gem "rackup"
 
 # Use Puma as the app server
 gem "puma", "~> 6.0"
