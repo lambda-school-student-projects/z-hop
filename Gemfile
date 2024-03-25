@@ -79,4 +79,5 @@ group :test do
   gem "i18n"
 end
 
-gem "rackup", "~> 3.0"
+gem "rackup", "~> 2.1.0"
+gem "rack", "~> 3.0"

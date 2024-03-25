@@ -191,7 +191,8 @@ DEPENDENCIES
   i18n
   pry
   puma
-  rackup (~> 2.1)
+  rack (~> 3.0)
+  rackup (~> 2.1.0)
   rspec
   rspec-html-matchers
   sinatra
