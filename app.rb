@@ -4,7 +4,7 @@ require "json"
 require "httparty"
 
 get("/") do
-  @news = fetch_news_file
+  @news = fetch_news #_file
   @models = fetch_models_file
   @tips = fetch_tips_file
   @events = fetch_events_file
@@ -14,12 +14,12 @@ end
 
 private
 
-def fetch_news_file
-  news_file = File.read('./fetch_news.json')
-  data = JSON.parse(news_file)
-  news_data = data["newsResults"]
-  news_data
-end
+# def fetch_news_file
+#   news_file = File.read('./fetch_news.json')
+#   data = JSON.parse(news_file)
+#   news_data = data["newsResults"]
+#   news_data
+# end
 
 def fetch_models_file
   models_file = File.read('./fetch_models.json')
