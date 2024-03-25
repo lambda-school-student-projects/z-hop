@@ -4,15 +4,43 @@ require "json"
 require "httparty"
 
 get("/") do
-  @news = fetch_news
-  @models = fetch_models
-  @tips = fetch_tips
-  @events = fetch_events
+  @news = fetch_news_file
+  @models = fetch_models_file
+  @tips = fetch_tips_file
+  @events = fetch_events_file
 
   erb(:index)
 end
 
 private
+
+def fetch_news_file
+  news_file = File.read('./fetch_news.json')
+  data = JSON.parse(news_file)
+  news_data = data["newsResults"]
+  news_data
+end
+
+def fetch_models_file
+  models_file = File.read('./fetch_models.json')
+  data = JSON.parse(models_file)
+  models_data = data["organicResults"]
+  models_data
+end
+
+def fetch_tips_file
+  tips_file = File.read('./fetch_tips.json')
+  data = JSON.parse(tips_file)
+  tips_data = data["organicResults"]
+  tips_data
+end
+
+def fetch_events_file
+events_file = File.read('./fetch_events.json')
+data = JSON.parse(events_file)
+events_data = data["eventsResults"]
+events_data
+end
 
 def fetch_news
   api_key = ENV.fetch("SCRAPEIT_API_KEY")
@@ -23,12 +51,12 @@ def fetch_news
 
   if response.code == 200
     data = JSON.parse(response.body)
-    news_articles = data["newsResults"]
+    news_data = data["newsResults"]
   else
     puts "Error fetching news: #{response.code} - #{response.message}"
-    news_articles = []
+    news_data = []
   end
-  news_articles
+  news_data
 end
 
 def fetch_models

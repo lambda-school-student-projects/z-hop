@@ -1,0 +1,303 @@
+{
+  "requestMetadata": {
+    "id": "a0a6b2b6-827f-41b6-8342-077a864ee1e7",
+    "status": "ok",
+    "url": "https://www.google.com/search?q=3D%2BPrinting%2BEvents%2Bin%2BChicago&hl=en&htichips=date%3Aweek%3A%2BThis%2BWeek%27s%2BEvents%2Cdate%3Aweekend%3A%2BThis%2BWeekend%27s%2BEvents%2Cevent_type%3AVirtual-Event%2Cdate%3Aweek%27+%5C%09--header+%27x-api-key%3A+87027645-f0b7-4ad0-9ae0-e01f89b6d10c&ibp=htl;events",
+    "html": "https://storage.googleapis.com/scrapeit-cloud-screenshots/a0a6b2b6-827f-41b6-8342-077a864ee1e7.html"
+  },
+  "eventsResults": [
+    {
+      "position": 1,
+      "title": "3D Printing Basics for Teens",
+      "date": {
+        "startDate": "24 Mar",
+        "when": "Sun, Mar 24, 6:30 – 9:30 PM"
+      },
+      "address": [
+        "642 W 43rd St",
+        "Chicago, IL"
+      ],
+      "link": "https://chipublib.bibliocommons.com/events/65c3b3308f2b073a00d06cac",
+      "description": "Interested in 3D printing? Come on down to Canaryville. We'll show you the ropes! For ages 10 to 19. How to Attend Chicago Public Library cannot collect personal information online from kids 0 to...",
+      "venue": {
+        "name": "642 W 43rd St, Chicago, IL"
+      },
+      "ticketInfo": [
+        {
+          "source": "Chicago Public Library | BiblioCommons",
+          "link": "https://chipublib.bibliocommons.com/events/65c3b3308f2b073a00d06cac",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=TIF73Aebe0UEHSfizXUO7zEHDP4Q-Utm7TxUadFzNOnD6SIGB69x9ItGslJH1s8Zu-Km6-DxILNKPvBndC_flAO9uNzBcXrR_gZnm9aWckrI5ZQAnxI",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880e2c20a5c74c35:0xa964874daacedaf?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIARAA&hl=en"
+      }
+    },
+    {
+      "position": 2,
+      "title": "3D Printed Keychain Workshop",
+      "date": {
+        "startDate": "23 Mar",
+        "when": "Sat, Mar 23, 2:00 – 3:30 PM"
+      },
+      "address": [
+        "North Pulaski Branch, Chicago Public Library, 4300 W North Ave",
+        "Chicago, IL"
+      ],
+      "link": "https://chipublib.bibliocommons.com/events/65a6a69e8f2b073a00ccd807",
+      "description": "Join us to learn how to design your own 3D-printed keychain using Tinkercad! We'll work together to learn some basics that will allow you to create a simple keychain. After the workshop, we'll...",
+      "venue": {
+        "name": "North Pulaski Branch, Chicago Public Library",
+        "reviews": 43,
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=North+Pulaski+Branch,+Chicago+Public+Library&ludocid=8377140253979431130&ibp=gwp%3B0,7"
+      },
+      "ticketInfo": [
+        {
+          "source": "Chicago Public Library | BiblioCommons",
+          "link": "https://chipublib.bibliocommons.com/events/65a6a69e8f2b073a00ccd807",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=JrukjQN60xDlRNF4jjbk9QD-Gz5-NlxKu6_9KH_wsuQ9RSKuMJ4_L95kWmPuDUzcjJvIG5lkMRrZkseIZDH7X15AdiR73jDx8b0LrdABiHKzSYHvt6g",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880fcd26fbd2d243:0x744194ad5011d0da?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQICRAA&hl=en"
+      }
+    },
+    {
+      "position": 3,
+      "title": "3D Printing Open Lab",
+      "date": {
+        "startDate": "4 Apr",
+        "when": "Thu, Apr 4, 11 PM – Fri, Apr 5, 12 AM"
+      },
+      "address": [
+        "2111 W 47th St",
+        "Chicago, IL"
+      ],
+      "link": "https://chipublib.bibliocommons.com/events/658f2fdeff0488410006b0db",
+      "description": "Interested in 3D printing? Are you an expert at 3D printing? No matter the skill level, stop by and design your 3D model using TinkerCad. You can then use one of our 3D printers to make your...",
+      "venue": {
+        "name": "2111 W 47th St, Chicago, IL"
+      },
+      "ticketInfo": [
+        {
+          "source": "Chicago Public Library | BiblioCommons",
+          "link": "https://chipublib.bibliocommons.com/events/658f2fdeff0488410006b0db",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=JqpE9uxsQYwJqGEm1n3NAlH0Zb-MVisvlgHxlPJ6bi2NqUDpwYjBlbWgevRvjKQp4fvXmqEvMUXDeUO9pytfuMsFXfiPtW22HvbIp1p37trsBMY96W8",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880e2e72ca451823:0x31314458073457f9?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIERAA&hl=en"
+      }
+    },
+    {
+      "position": 4,
+      "title": "3D Printing Authorization Workshop @ IRL2",
+      "date": {
+        "startDate": "22 Mar",
+        "when": "Fri, Mar 22, 11:00 AM – 12:30 PM"
+      },
+      "address": [
+        "Idea Realization Lab 2, Schmitt Academic Center, 2320 N Kenmore Ave Room 236",
+        "Chicago, IL"
+      ],
+      "link": "https://www.eventbrite.com/e/3d-printing-authorization-workshop-irl2-tickets-822159700797",
+      "description": "Come get authorized and learn how to use our 3D Printers at the IRL 2!",
+      "venue": {
+        "name": "Idea Realization Lab 2"
+      },
+      "ticketInfo": [
+        {
+          "source": "Eventbrite.com",
+          "link": "https://www.eventbrite.com/e/3d-printing-authorization-workshop-irl2-tickets-822159700797",
+          "linkType": "tickets"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=i7CkRgEMt40qum4jdfRY7nERhyGMgGH-HCSphDkooiQdJnODmGqT0JHiz40uSB3vIgeNHgtunTw5Hyq9Eux2E2yy3qgevOVdAA1j1j9wpdE2ROSonNQ",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880fd369a35bcfc7:0xa610dcf21c932406?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIGRAA&hl=en"
+      }
+    },
+    {
+      "position": 5,
+      "title": "3D Printing Club",
+      "date": {
+        "startDate": "22 Mar",
+        "when": "Fri, Mar 22, 4:30 – 5:30 PM"
+      },
+      "address": [
+        "Highland Park Public Library, 494 Laurel Ave",
+        "Highland Park, IL"
+      ],
+      "link": "https://hplibrary.org/event/9676255",
+      "description": "Spend an hour using Tinkercad to create your own 3D designs. For ages 9-12 years. Questions? Contact the Media Services department.",
+      "venue": {
+        "name": "Highland Park Public Library",
+        "reviews": 66,
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Highland+Park+Public+Library&ludocid=10024033516274894462&ibp=gwp%3B0,7"
+      },
+      "ticketInfo": [
+        {
+          "source": "Highland Park Public Library",
+          "link": "https://hplibrary.org/event/9676255",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=uMS5fU3AJz2V3f2TnznBDTrhT7uvpMFjt5OhqawbZWbKnm60a0Rh9i23f2n-AlYYL_XlSwOKi1fISSkRCScgMAzDZHZZNhupRf5do332kRK4IOk5dic",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880fc1a2bdb61ceb:0x8b1c855f9a2cc67e?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIIRAA&hl=en"
+      }
+    },
+    {
+      "position": 6,
+      "title": "3D Printing for Beginners",
+      "date": {
+        "startDate": "3 Apr",
+        "when": "Wed, Apr 3, 10 PM – Thu, Apr 4, 12 AM"
+      },
+      "address": [
+        "9055 S Houston Ave",
+        "Chicago, IL"
+      ],
+      "link": "https://chipublib.bibliocommons.com/events/65e8c569ddb9e34100a41a0a",
+      "description": "Interested in learning more about 3D Printing? Don't know where to start? Join us at South Chicago Branch where we will learn how to design 3D objects, export them, and print them using the...",
+      "venue": {
+        "name": "9055 S Houston Ave, Chicago, IL"
+      },
+      "ticketInfo": [
+        {
+          "source": "Chicago Public Library | BiblioCommons",
+          "link": "https://chipublib.bibliocommons.com/events/65e8c569ddb9e34100a41a0a",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=MzhoqSPrM8ssLdnKGQfiMf-9lZZcwJFwDzIvLzcbRIBietksoTN6LRqBfdA2UQkH5vYIJCzexX6HhJHNQwUWeP0gdq-bZcAv3j7esxuORv7r0ATVpMs",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880e27e34d176a95:0x32b52df40f9daea0?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIKRAA&hl=en"
+      }
+    },
+    {
+      "position": 7,
+      "title": "3D Printing Open Lab",
+      "date": {
+        "startDate": "21 May",
+        "when": "Tue, May 21, 3:30 – 5:30 PM"
+      },
+      "address": [
+        "Merlo Branch, Chicago Public Library, 644 W Belmont Ave",
+        "Chicago, IL"
+      ],
+      "link": "https://chipublib.bibliocommons.com/events/65c502d78f2b073a00d095ed",
+      "description": "Come check out Merlo’s 3D printers, design a simple object in Tinkercad, or learn more about the process by printing a ready-to-go design. Prints are limited to small objects that print in 20...",
+      "venue": {
+        "name": "Merlo Branch, Chicago Public Library",
+        "reviews": 109,
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Merlo+Branch,+Chicago+Public+Library&ludocid=8600100057112977232&ibp=gwp%3B0,7"
+      },
+      "ticketInfo": [
+        {
+          "source": "Chicago Public Library | BiblioCommons",
+          "link": "https://chipublib.bibliocommons.com/events/65c502d78f2b073a00d095ed",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=NQSSUSXqW6C63Ijsr_DQP_74qVKbUl6w6kmTvwS6p2HGwk8EJmsIKAukxlIaNEy82PibTRP1NV69WQlc0GeoWemxK-2YuYRbO9HWWx8jiETr527WseY",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880fd3a678b7ee53:0x7759b16fc9091f50?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIMRAA&hl=en"
+      }
+    },
+    {
+      "position": 8,
+      "title": "3D Printing Basics for Teens",
+      "date": {
+        "startDate": "6 Apr",
+        "when": "Sat, Apr 6, 3 – 7 PM"
+      },
+      "address": [
+        "642 W 43rd St",
+        "Chicago, IL"
+      ],
+      "link": "https://chipublib.bibliocommons.com/events/65ef35c1284a1a45701108c7",
+      "description": "Interested in 3D printing? Come on down to Canaryville. We'll show you the ropes! For ages 10 to 19. How to Attend Chicago Public Library cannot collect personal information online from kids 0 to...",
+      "venue": {
+        "name": "642 W 43rd St, Chicago, IL"
+      },
+      "ticketInfo": [
+        {
+          "source": "Chicago Public Library | BiblioCommons",
+          "link": "https://chipublib.bibliocommons.com/events/65ef35c1284a1a45701108c7",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=TIF73Aebe0UEHSfizXUO7zEHDP4Q-Utm7TxUadFzNOnD6SIGB69x9ItGslJH1s8Zu-Km6-DxILNKPvBndC_flAO9uNzBcXrR_gZnm9aWckrI5ZQAnxI",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880e2c20a5c74c35:0xa964874daacedaf?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIORAA&hl=en"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Intro to 3D Printing",
+      "date": {
+        "startDate": "3 Apr",
+        "when": "Wed, Apr 3, 6:00 – 7:30 PM"
+      },
+      "address": [
+        "Glenview Public Library, 1930 Glenview Rd",
+        "Glenview, IL"
+      ],
+      "link": "https://glenviewpl.bibliocommons.com/events/65734631817cb6bf4e9ae836",
+      "description": "Learn all the steps to 3D printing in the library, including finding files to print.Programs in the Innovation Center are reserved for Glenview patrons.",
+      "venue": {
+        "name": "Glenview Public Library",
+        "reviews": 183,
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Glenview+Public+Library&ludocid=3818725248690320493&ibp=gwp%3B0,7"
+      },
+      "ticketInfo": [
+        {
+          "source": "Glenview Public Library | BiblioCommons",
+          "link": "https://glenviewpl.bibliocommons.com/events/65734631817cb6bf4e9ae836",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=goF_MqubY7KxMzmSDzGmEjJmg9MpKhoXlgZCNG_0AWokCz8JOe-nCcuh_YHQCLVyo0wyUSPUAret5YwJBPqroQZQCVesOItwNUOX_6YxluokRHDGNME",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880fc637387ae4fd:0x34fed6619700746d?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQIQRAA&hl=en"
+      }
+    },
+    {
+      "position": 10,
+      "title": "Resin Printing Authorization Workshop @ IRL1",
+      "date": {
+        "startDate": "22 Mar",
+        "when": "Mar 13, 5 PM – Apr 3, 6 PM"
+      },
+      "address": [
+        "Idea Realization Lab at DePaul University, 14 E Jackson Blvd #310",
+        "Chicago, IL"
+      ],
+      "link": "https://www.eventbrite.com/e/resin-printing-authorization-workshop-irl1-tickets-849635632047",
+      "description": "Learn how to use the resin printers for detailed prints like DnD minis! Must be DePaul student, faculty, or alumni to attend.",
+      "venue": {
+        "name": "Idea Realization Lab at DePaul University"
+      },
+      "ticketInfo": [
+        {
+          "source": "Eventbrite.com",
+          "link": "https://www.eventbrite.com/e/resin-printing-authorization-workshop-irl1-tickets-849635632047",
+          "linkType": "tickets"
+        },
+        {
+          "source": "AllEvents.in",
+          "link": "https://allevents.in/chicago/resin-printing-authorization-workshop-irl1/10000849635632047",
+          "linkType": "more info"
+        }
+      ],
+      "eventLocationMap": {
+        "image": "https://www.google.com/maps/vt/data=rfhq8FPxr9HEjbgCz5HvJMScRbzkCfxtjVVglkQSDZTGHXlpItGO5uHLrD_j2PPv4YjG_fsmp0QwGOsz_Jp-htiG2StCCf7tU4KaTCprc26Gz4guavw",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x880e2ca3177d325d:0x2f4ab3670d4e0019?sa=X&ved=2ahUKEwixlpKJmIiFAxW3tokEHbDuBrEQ9eIBegQISRAA&hl=en"
+      }
+    }
+  ]
+}

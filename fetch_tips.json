@@ -1,0 +1,217 @@
+{
+  "requestMetadata": {
+    "id": "017d3b08-2a2e-40f7-bd70-c6b4da1932bc",
+    "status": "ok",
+    "url": "https://www.google.com/search?q=3D%2Bprinting%2BTips%2Band%2BTricks&hl=en&oq=3D%2Bprinting%2BTips%2Band%2BTricks&sourceid=chrome&num=10&ie=UTF-8",
+    "html": "https://storage.googleapis.com/scrapeit-cloud-screenshots/017d3b08-2a2e-40f7-bd70-c6b4da1932bc.html"
+  },
+  "searchInformation": {
+    "totalResults": "54800000",
+    "timeTaken": 0.44
+  },
+  "organicResults": [
+    {
+      "position": 1,
+      "title": "3D Printing Tips To Improve Print Quality",
+      "link": "https://www.allprintheads.com/blogs/news/3d-printing-tips-to-improve-print-quality",
+      "displayedLink": "https://www.allprintheads.com › Our Blog",
+      "source": "All Print Heads",
+      "snippet": "Aug 25, 2023 — One of the easiest ways to maintain your 3D Printer is by keeping it clean. Remove any excess plastic and debris from the print bed and nozzle ...",
+      "snippetHighlitedWords": [
+        "3D Printer"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "10 Beginner Tips for Mastering 3D Printing",
+      "link": "https://www.mlc-cad.com/10-beginner-tips-mastering-3d-printing/",
+      "displayedLink": "https://www.mlc-cad.com › ... › Markforged Tech Tips",
+      "source": "MLC CAD Systems",
+      "snippet": "10 Beginner Tips for Mastering 3D Printing · 10. Avoid Multiple Designs in One Print · 9. Avoid Printing on Long Edges · 8. Properly Prep the Print Bed · 7.",
+      "snippetHighlitedWords": [
+        "Tips",
+        "3D Printing"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "3D Printing Tips and Tricks",
+      "link": "https://groups.google.com/g/3d-printing-tips--tricks",
+      "displayedLink": "https://groups.google.com › 3d-printing-tips--tricks",
+      "source": "Google Groups",
+      "snippet": "Need help? Need support? Wanna talk to another 3D Printing wonk about something awesome you just generated with your souped up desktop factory? Please... POST ...",
+      "snippetHighlitedWords": [
+        "3D Printing"
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Just got my first 3d printer, super excited!! Any tips or tricks I ...",
+      "link": "https://www.reddit.com/r/ender3/comments/11byvmg/just_got_my_first_3d_printer_super_excited_any/",
+      "displayedLink": "140+ comments  ·  1 year ago",
+      "source": "Reddit · r/ender3",
+      "snippet": "Use high-quality filament: Using high-quality filament can help you get better results. Avoid using cheap, low-quality filament as it can result ..."
+    },
+    {
+      "position": 5,
+      "title": "Out of the Box 3D Printer Tips for Beginners",
+      "link": "https://www.tomshardware.com/how-to/3d-printer-tips-for-beginners",
+      "displayedLink": "https://www.tomshardware.com › how-to › 3d-printer-ti...",
+      "source": "Tom's Hardware",
+      "snippet": "Dec 26, 2021 — Out of the Box 3D Printer Tips for Beginners · 1. Level your print bed. · 2. Clean your print bed and make it sticky. · 3. Use rafts to increase ...",
+      "snippetHighlitedWords": [
+        "3D Printer Tips"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "3D Printing Tips: How to Improve 3D Print Quality",
+      "link": "https://all3dp.com/2/3d-print-quality-12-tips-on-how-to-improve-it/",
+      "displayedLink": "https://all3dp.com › Basics",
+      "source": "All3DP",
+      "snippet": "Dec 25, 2023 — 3D Printing Tips: How to Improve 3D Print Quality · Level the Bed & Set the Z Offset · Test the Temperatures · Upgrade the Build Surface · Keep Up ...",
+      "snippetHighlitedWords": [
+        "3D Printing Tips"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Skip",
+            "link": "https://all3dp.com/2/3d-print-quality-12-tips-on-how-to-improve-it/#after-toc"
+          },
+          {
+            "title": "Test the Temperatures",
+            "link": "https://all3dp.com/2/3d-print-quality-12-tips-on-how-to-improve-it/#i-2-2-test-the-temperatures"
+          },
+          {
+            "title": "Keep Up with Maintenance",
+            "link": "https://all3dp.com/2/3d-print-quality-12-tips-on-how-to-improve-it/#i-4-4-keep-up-with-maintenance"
+          },
+          {
+            "title": "Learn Your Slicer",
+            "link": "https://all3dp.com/2/3d-print-quality-12-tips-on-how-to-improve-it/#i-6-6-learn-your-slicer"
+          }
+        ]
+      }
+    },
+    {
+      "position": 7,
+      "title": "Top Ten Tips When Getting Started With 3D Printing",
+      "link": "https://www.matterhackers.com/articles/top-ten-tips-when-getting-started-with-3d-printing",
+      "displayedLink": "https://www.matterhackers.com › articles › top-ten-tips-...",
+      "source": "MatterHackers",
+      "snippet": "Jul 30, 2020 — Top Ten Tips When Getting Started With 3D Printing · Bed Leveling and Z offset · Changing Filament · The Right Material For The Job · Change a ...",
+      "snippetHighlitedWords": [
+        "Tips",
+        "3D Printing"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Bed Leveling And Z Offset",
+            "link": "https://www.matterhackers.com/articles/top-ten-tips-when-getting-started-with-3d-printing#:~:text=Bed%20Leveling%20and%20Z%20offset"
+          },
+          {
+            "title": "Changing Filament",
+            "link": "https://www.matterhackers.com/articles/top-ten-tips-when-getting-started-with-3d-printing#:~:text=Changing%20Filament,-Contrary%20to%20paper%20printers%2C"
+          },
+          {
+            "title": "Change A Nozzle",
+            "link": "https://www.matterhackers.com/articles/top-ten-tips-when-getting-started-with-3d-printing#:~:text=Change%20a%20Nozzle,-Changing%20nozzles%20is%20a%20normal"
+          }
+        ]
+      }
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "3d printing tips for beginners",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=3D+printing+tips+for+beginners&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhQEAE"
+    },
+    {
+      "query": "3d printing tips and tricks reddit",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=3d+printing+tips+and+tricks+reddit&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhMEAE"
+    },
+    {
+      "query": "3d printing tips and tricks google group",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=3D+Printing+Tips+and+Tricks+Google+group&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhPEAE"
+    },
+    {
+      "query": "resin 3d printing tips and tricks",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Resin+3D+printing+tips+and+tricks&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhLEAE"
+    },
+    {
+      "query": "3d printing tips and tricks pdf",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=3D+printing+tips+and+tricks+PDF&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhKEAE"
+    },
+    {
+      "query": "the ultimate book of 3d printing tips and tricks (fdm/fff) pdf",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=the+ultimate+book+of+3d+printing+tips+and+tricks+(fdm/fff)+pdf&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhJEAE"
+    },
+    {
+      "query": "3d printing design tips",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=3D+printing+design+tips&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhREAE"
+    },
+    {
+      "query": "pla 3d printing tips",
+      "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=PLA+3D+printing+tips&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ1QJ6BAhTEAE"
+    }
+  ],
+  "inlineRelatedSearches": {
+    "title": "3D printing Platforms",
+    "items": [
+      {
+        "query": "Thingiverse",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsAsRbK-IgA_4FbQkDzllletpUib0XMDYDmoeR&s=0",
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Thingiverse&stick=H4sIAAAAAAAAAOOQUeLSz9U3SCvMTbYoNxI1TlEoKMrMK8nMS1coyEksScsvyi2OkjZ2QQiHZBYUKyTmpSiEFGUmZxefYkQy4BQjr366vqFhhnmVeVZurimMn5ZcUlholGV4ipEHxDcqSE9JSrI0gklnGxtWFCQZp8P4yUYF2dmWaZa_GEWRbQ6AOaiBhXERK3dIBlAwsyy1qDj1Fpskg5vU2pjaT0-nTt6cO3dum6Ha-a9ity8t1rwCAFAjfYPjAAAA&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQs9oBKAB6BAg2EAI"
+      },
+      {
+        "query": "Tinkercad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTtz7d0Yx4LILt3J0vXBHNN_wH8ifrRCqCQVF&s=0",
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Tinkercad&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwrzLPys01NRI1TlEoKMrMK8nMS1coyEksScsvyi2OkjZ2QQiHZBYUKyTmpSiEFGUmZxefYuTSz9U3SCvMTbYoP8WIaiCMn5ZcUlholGV4ipEHxDcqSE9JSrI0gklnGxtWFCQZp8P4yUYF2dmWaZa_GEWRbQ6AOaiBhXERK2dIZl52alFyYsotNkkGN6m1MbWfnk6dvDl37tw2Q7XzX8VuX1qseQUAyQEhmuQAAAA&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQs9oBKAF6BAg2EAM"
+      },
+      {
+        "query": "Slicer",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg14978Kvaan8Eq1vUktNEBRtrENIa72AS1KuyLT5anQYVPzUxgJe_&s=0",
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Slicer&stick=H4sIAAAAAAAAAOOQUeLVT9c3NExLLiksNMoyNBI1TlEoKMrMK8nMS1coyEksScsvyi2OkjZ2QQiHZBYUKyTmpSiEFGUmZxefYuTSz9U3SCvMTbYoP8UIMTDDvMo8KzfXFMaHWXCKkQfENypIT0lKsjSCSWcbG1YUJBmnw_jJRgXZ2ZZplr8YRZFtDoA5qIGFcRErW3BOZnJq0S02SQY3qbUxtZ-eTp28OXfu3DZDtfNfxW5fWqx5BQBVeref4QAAAA&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQs9oBKAJ6BAg2EAQ"
+      },
+      {
+        "query": "Slic3r",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPr28phSNhtfLiZhUyRda7xXgreyMvtBJ3cCrw&s=0",
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Slic3r&stick=H4sIAAAAAAAAAOOQUeLRT9c3NCpIT0lKsjQyEjVOUSgoyswrycxLVyjISSxJyy_KLY6SNnZBCIdkFhQrJOalKIQUZSZnF59i5NLP1TdIK8xNtig_xcgLMs8ww7zKPCs31xTGT0suKSw0yjI8xYhiH0w629iwoiDJOB3GTzYqyM62TLP8xSiKbHMAzEENLIyLWNmCczKTjYtusUkyuEmtjan99HTq5M25c-e2Gaqd_yp2-9JizSsAeL3P0OAAAAA&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQs9oBKAN6BAg2EAU"
+      },
+      {
+        "query": "Fusion 360",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjfoud2cynup7wcmCB3tzq9Y7I0mD8UEYWFQQxQIacDd-22POYtxJK&s=0",
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Fusion+360&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMw2NqwoSDJONxI1TlEoKMrMK8nMS1coyEksScsvyi2OkjZ2QQiHZBYUKyTmpSiEFGUmZxefYuTSz9U3SCvMTbYoP8UIMTDDvMo8KzfXFMZPSy4pLDTKMjzFyAPiGxWkpyQlWRrBpGH2w_jJRgXZ2ZZplr8YRZFtDoA5qIGFcRErl1tpcWZ-noKxmcEtNkkGN6m1MbWfnk6dvDl37tw2Q7XzX8VuX1qseQUAizUGf-UAAAA&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQs9oBKAR6BAg2EAY"
+      },
+      {
+        "query": "Cura",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREp7xUmwYwjH_AW4hqifGr_R95kH8l7MUqvly3u4EOe4LwLrs_rVz_&s=0",
+        "link": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=Cura+(software)&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2KsjOtkyzNBI1TlEoKMrMK8nMS1coyEksScsvyi2OkjZ2QQiHZBYUKyTmpSiEFGUmZxefYuTSz9U3SCvMTbYoP8UIMTDDvMo8KzfXFMZPSy4pLDTKMjzFyAPiGxWkpyQlWRrBpLONDSsKkozTYXyYe34xiiLbHABzUAML4yJWfufSokQFjeL8tJLyxKJUzVtskgxuUmtjaj89nTp5c-7cuW2Gaue_it2-tFjzCgAbggaX6gAAAA&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQs9oBKAV6BAg2EAc"
+      }
+    ],
+    "seeMoreLink": "https://www.google.com/search?sca_esv=2b87a7951bc7ea46&hl=en&q=3D+printing+Platforms&stick=H4sIAAAAAAAAAOOQMRI1TlEoKMrMK8nMS1coyEksScsvyi2OkjZ2QQiHZBYUKyTmpSiEFGUmZxefYuTSz9U3SCvMTbYoP8XIq5-ub2iYYV5lnpWbawrjpyWXFBYaZRmeYuQB8Y0K0lOSkiyNYNLZxoYVBUnG6TB-slFBdrZlmuUvRlFkmwNgDmpgYVzEil3qFpskg5vU2pjaT0-nTt6cO3dum6Ha-a9ity8t1rwCAIFJfprhAAAA&sa=X&ved=2ahUKEwigkcCtnYiFAxX3AzQIHV0qDfYQ4qYDegQINhAI"
+  },
+  "inlineVideos": [
+    {
+      "position": 1,
+      "title": "5 3D Printing Tips the ELITES don't want you to know ..."
+    },
+    {
+      "position": 2,
+      "title": "10 Secret 3D Printing Tricks Only Experts Know..."
+    },
+    {
+      "position": 3,
+      "title": "5 must-know 3D printing tips & tricks. (stronger and better ..."
+    },
+    {
+      "position": 4,
+      "title": "My 10 BEST tips for 3D Printing"
+    }
+  ],
+  "pagination": {
+    "next": "https://www.google.com/search?q=3D%2Bprinting%2BTips%2Band%2BTricks&sca_esv=2b87a7951bc7ea46&hl=en&ei=oqn9ZaC4L_eH0PEP3dS0sA8&start=10&sa=N"
+  }
+}
