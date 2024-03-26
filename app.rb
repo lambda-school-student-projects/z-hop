@@ -5,9 +5,9 @@ require "httparty"
 
 get("/") do
   @news = fetch_news #_file
-  @models = fetch_models_file
-  @tips = fetch_tips_file
-  @events = fetch_events_file
+  @models = fetch_models #_file
+  @tips = fetch_tips #_file
+  @events = fetch_events #_file
 
   erb(:index)
 end
@@ -21,26 +21,26 @@ private
 #   news_data
 # end
 
-def fetch_models_file
-  models_file = File.read('./fetch_models.json')
-  data = JSON.parse(models_file)
-  models_data = data["organicResults"]
-  models_data
-end
+# def fetch_models_file
+#   models_file = File.read('./fetch_models.json')
+#   data = JSON.parse(models_file)
+#   models_data = data["organicResults"]
+#   models_data
+# end
 
-def fetch_tips_file
-  tips_file = File.read('./fetch_tips.json')
-  data = JSON.parse(tips_file)
-  tips_data = data["organicResults"]
-  tips_data
-end
+# def fetch_tips_file
+#   tips_file = File.read('./fetch_tips.json')
+#   data = JSON.parse(tips_file)
+#   tips_data = data["organicResults"]
+#   tips_data
+# end
 
-def fetch_events_file
-events_file = File.read('./fetch_events.json')
-data = JSON.parse(events_file)
-events_data = data["eventsResults"]
-events_data
-end
+# def fetch_events_file
+# events_file = File.read('./fetch_events.json')
+# data = JSON.parse(events_file)
+# events_data = data["eventsResults"]
+# events_data
+# end
 
 def fetch_news
   api_key = ENV.fetch("SCRAPEIT_API_KEY")
