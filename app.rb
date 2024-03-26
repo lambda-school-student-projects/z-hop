@@ -14,33 +14,33 @@ end
 
 private
 
-# def fetch_news_file
-#   news_file = File.read('./fetch_news.json')
-#   data = JSON.parse(news_file)
-#   news_data = data["newsResults"]
-#   news_data
-# end
+def fetch_news_file
+  news_file = File.read('./fetch_news.json')
+  file_data = JSON.parse(news_file)
+  news_data = file_data["newsResults"]
+  news_data
+end
 
-# def fetch_models_file
-#   models_file = File.read('./fetch_models.json')
-#   data = JSON.parse(models_file)
-#   models_data = data["organicResults"]
-#   models_data
-# end
+def fetch_models_file
+  models_file = File.read('./fetch_models.json')
+  file_data = JSON.parse(models_file)
+  models_data = file_data["organicResults"]
+  models_data
+end
 
-# def fetch_tips_file
-#   tips_file = File.read('./fetch_tips.json')
-#   file_data = JSON.parse(tips_file)
-#   tips_data = file_data["organicResults"]
-#   tips_data
-# end
+def fetch_tips_file
+  tips_file = File.read('./fetch_tips.json')
+  file_data = JSON.parse(tips_file)
+  tips_data = file_data["organicResults"]
+  tips_data
+end
 
-# def fetch_events_file
-# events_file = File.read('./fetch_events.json')
-# file_data = JSON.parse(events_file)
-# events_data = file_data["eventsResults"]
-# events_data
-# end
+def fetch_events_file
+events_file = File.read('./fetch_events.json')
+file_data = JSON.parse(events_file)
+events_data = file_data["eventsResults"]
+events_data
+end
 
 def fetch_news
   api_key = ENV.fetch("SCRAPEIT_API_KEY")
@@ -54,9 +54,7 @@ def fetch_news
     news_data = data["newsResults"]
   else
     puts "Error fetching news: #{response.code} - #{response.message}, using cached content instead."
-    news_file = File.read('./fetch_news.json')
-    file_data = JSON.parse(news_file)
-    news_data = file_data["newsResults"]
+    news_data = fetch_news_file
   end
   news_data
 end
@@ -73,9 +71,7 @@ def fetch_models
     models_data = data["organicResults"]
   else
     puts "Error fetching models: #{response.code} - #{response.message}, using cached content instead."
-    models_file = File.read('./fetch_models.json')
-    file_data = JSON.parse(models_file)
-    models_data = file_data["organicResults"]
+    models_data = fetch_models_file
   end
   models_data
 end
@@ -92,9 +88,7 @@ def fetch_tips
     tips_tricks_data = data["organicResults"]
   else
     puts "Error fetching tips and tricks: #{response.code} - #{response.message}, using cached content instead."
-    tips_file = File.read('./fetch_tips.json')
-    file_data = JSON.parse(tips_file)
-    tips_data = file_data["organicResults"]
+    tips_data = fetch_tips_file
   end
   tips_data
 end
@@ -111,9 +105,7 @@ def fetch_events
     events_data = data["eventsResults"]
   else
     puts "Error fetching events: #{response.code} - #{response.message}, using cached content instead."
-    events_file = File.read('./fetch_events.json')
-    file_data = JSON.parse(events_file)
-    events_data = file_data["eventsResults"]
+    events_data = fetch_events_file
   end
   events_data
 end
