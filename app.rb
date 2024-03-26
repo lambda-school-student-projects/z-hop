@@ -85,7 +85,7 @@ def fetch_tips
 
   if response.code == 200
     data = JSON.parse(response.body)
-    tips_tricks_data = data["organicResults"]
+    tips_data = data["organicResults"]
   else
     puts "Error fetching tips and tricks: #{response.code} - #{response.message}, using cached content instead."
     tips_data = fetch_tips_file
